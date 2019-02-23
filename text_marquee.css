@@ -1,0 +1,14 @@
+<style type="text/css">
+.text_marquee {
+	text-shadow: black 0.1em 0.1em 0.1em;
+	font-family: DFKai-sb;
+	font-size:24px;
+	color:white;
+	padding-top:5pt;
+	padding-bottom:1pt;
+	border:2px solid;
+	border-color:white;
+	background-image:-webkit-linear-gradient(rgba(0,255,0,0.3),rgba(0,0,255,0.1));
+	border-radius:10px;
+}
+</style>
